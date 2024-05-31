@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BookDepository</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="book_title_hint">Введите название книги</string>
+    <string name="book_title_label">Тайтл</string>
+    <string name="book_details_label">Детали</string>
+    <string name="book_readed_label">Прочитано?</string>
+    <string name="date_picker_title">Дата начала прочтения:</string>
+    <string name="time_picker_title">Дата окончания прочтения:</string>
+    <string name="new_book">Новая книга</string>
+    <string name="show_subtitle">Показать подзаголовок</string>
+    <string name="hide_subtitle">Скрыть подзаголовок</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d книга</item>
+        <item quantity="few">%1$d книг</item>
+        <item quantity="other">%1$d книг</item>
+    </plurals>
+    <string name="delete_book">Удалить книгу</string>
+    <string name="subtitle_format">%1$d книг</string>
+    <string name="list_empty">Ваш лист пуст(</string>
+    <string name="book_report_text">Отправить отчет о прочитанном</string>
+    <string name="book_report">%1$s Книга была запланирована к прочтению %2$s and %3$s</string>
+    <string name="book_report_readed">книга прочитана</string>
+    <string name="book_report_unreaded">книга не прочитана</string>
+    <string name="book_report_subject">BookDepository прочитать отчет</string>
+    <string name="send_report">Отправьте отчет о прочитанном через</string>
+    <string name="book_gallery_subject">BookDepository открыть изображение</string>
+    <string name="book_gallery">Открыть изображение</string>
+    <string name="request_read_external_storage_permission">Предоставьте хранилищу разрешение на открытие изображения из галереи.</string>
+    <string name="no_photo">Нет изображений</string>
+    <string name="todo">TODO</string>
+
+</resources>
